@@ -34,6 +34,7 @@
     line-height:22px;
 }
 
+
 .ui-paging-prev,
 .ui-paging-next,
 .ui-paging-goto {
@@ -68,7 +69,8 @@
     background-color:#f3f3f3;
     font-weight:bold;
     padding:0 8px;
-    border:none;    
+    border:none;  
+    border-radius:11px;  
 }
 
 .ui-paging a.ui-paging-current, .ui-paging a.ui-paging-item:hover {
